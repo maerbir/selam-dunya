@@ -1,0 +1,2 @@
+# selam-dunya
+başlangıç projesi
